@@ -2,10 +2,9 @@
 
     echo "OLA MUNDO ";
     
-    echo "gabriel gay"
+    echo "gabriel gay";
 
-    echo "eriquito"
+    echo "eriquito";
 
     
-
 ?>
