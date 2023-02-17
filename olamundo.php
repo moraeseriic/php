@@ -4,7 +4,7 @@
     
     echo "gabriel gay";
 
-    echo "ericquitoo";
+    echo "eric";
 
     
 ?>
