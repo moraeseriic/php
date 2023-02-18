@@ -1,1 +1,1 @@
-# php eriquito gosta de comer o gabriel 
+eriquito gosta de comer o gabriel 
